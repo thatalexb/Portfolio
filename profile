@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" type="text/css" href="style.css">
+	</head>
+	
+	
+	<body>
+		<table id="2x3">
+			<tr class="rows"><!--Övre rad-->
+				<td><a href="index.html">Home</a></td>
+				<td><a href="about.html">About</a></td>
+				<td><a href="contact.html">Contact</a></td>
+			</tr>
+			<tr class="rows"><!--Nedre rad-->
+				<td><a href="projects.html">Projects</a></td>
+				<td id="current"><a href="profile.html">Profile</a></td>
+				<td><a href="references.html">References</a></td>
+			</tr>
+		</table>
+		<div id="mainContent">
+		</div>	
+	
+	</body>
+</html>
