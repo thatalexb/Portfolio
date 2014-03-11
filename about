@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" type="text/css" href="style.css">
+	</head>
+	
+	
+	<body>
+		<table id="2x3">
+			<tr class="rows"><!--Övre rad-->
+				<td><a href="index.html">Home</a></td>
+				<td id="current"><a href="about.html">About</a></td>
+				<td><a href="contact.html">Contact</a></td>
+			</tr>
+			<tr class="rows"><!--Nedre rad-->
+				<td><a href="projects.html">Projects</a></td>
+				<td><a href="profile.html">Profile</a></td>
+				<td><a href="references.html">References</a></td>
+			</tr>
+		</table>
+		<div id="mainContent">
+			<p>
+				<strong>About</strong> </br></br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+				Aliquam molestie at velit sit amet faucibus. Cras quis lacus velit. 
+				Sed venenatis et nibh vel tempus. Sed a erat placerat, auctor ligula a, ultricies odio. 
+				Maecenas sed ante porta, dignissim velit sed, blandit turpis. Fusce 
+				vel tempus purus, id tempus risus. Donec vestibulum dictum imperdiet. Curabitur tincidunt, 
+				augue eu feugiat congue, sem metus rhoncus dolor, vitae eleifend 
+				dolor nisi sed ipsum.
+			
+			</p>
+		</div>
+			
+	
+	</body>
+</html>
