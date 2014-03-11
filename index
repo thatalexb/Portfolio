@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" type="text/css" href="style.css">
+	</head>
+	
+	
+<body>
+	<table id="2x3" align="center">
+		<tr class="rows"><!--Övre rad-->
+			<td id="current"><a href="index.html">Home</a></td>
+			<td><a href="about.html">About</a></td>
+			<td><a href="contact.html">Contact</a></td>
+		</tr>
+		<tr class="rows"><!--Nedre rad-->
+			<td><a href="projects.html">Projects</a></td>
+			<td><a href="profile.html">Profile</a></td>
+			<td><a href="references.html">References</a></td>
+		</tr>
+	</table>
+	<div id="mainContent">
+		<p><strong>Welcome to my site!</strong></br></br>This page will be used as a storage for my profile and projects. The site is still under construction but will eventually be finished before summer.</p>
+	</div>
+			
+	
+</body>
+</html>	
